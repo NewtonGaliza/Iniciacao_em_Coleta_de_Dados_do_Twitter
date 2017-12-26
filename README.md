@@ -1,1 +1,1 @@
-# Iniciacao_em_Colete_de_Dadod_do_Twitter
+Jupyter Notebook usado na palestra Inciação em Coleta de Dados do Twitter
